@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 825740ab2b09dd3498bd0b58c1181eec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6277400204303988758
+    second: Glenys-the-Demonswordsman_0
+  - first:
+      213: 1845079490921222316
+    second: Glenys-the-Demonswordsman_1
+  - first:
+      213: -4326195066310594083
+    second: Glenys-the-Demonswordsman_2
+  - first:
+      213: -6983269923176571794
+    second: Glenys-the-Demonswordsman_3
+  - first:
+      213: -2537261179964375430
+    second: Glenys-the-Demonswordsman_4
+  - first:
+      213: 3305967896190011285
+    second: Glenys-the-Demonswordsman_5
+  - first:
+      213: 5672116126820253639
+    second: Glenys-the-Demonswordsman_6
+  - first:
+      213: -6922333511212673762
+    second: Glenys-the-Demonswordsman_7
+  - first:
+      213: 1366903901382779577
+    second: Glenys-the-Demonswordsman_8
+  - first:
+      213: 64258527514564156
+    second: Glenys-the-Demonswordsman_9
+  - first:
+      213: -5838641728898759724
+    second: Glenys-the-Demonswordsman_10
+  - first:
+      213: -2728743074539592971
+    second: Glenys-the-Demonswordsman_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcb299a574861342876a0c6c637cac0
+      internalID: 6277400204303988758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30290d95437099646b3d64f87840cc6f
+      internalID: 1845079490921222316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 504
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa967d3ca82f42498743c876deca4b2
+      internalID: -4326195066310594083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c7f2689338bed41aa92a9130dae849
+      internalID: -6983269923176571794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 432
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e7ee7577318a4999234a94a83a594
+      internalID: -2537261179964375430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2316708c07f0f0248b3fcc0d9d729901
+      internalID: 3305967896190011285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd7e39cfc130734082efb9ed998a465
+      internalID: 5672116126820253639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1435c2cde3538c46891f3ca08af45a9
+      internalID: -6922333511212673762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f081005a52c67643867eb4fb070f7f8
+      internalID: 1366903901382779577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e994ee0a689ef43b8a6e5a934ec713
+      internalID: 64258527514564156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 288
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9dbc29223f1b94ab44c4c88583f5ec
+      internalID: -5838641728898759724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glenys-the-Demonswordsman_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74383ad65871c074a921582d3feea351
+      internalID: -2728743074539592971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
